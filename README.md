@@ -35,6 +35,22 @@ The project contains a source code of an authentication API commented in blocks 
 
 -[ ] .[link](https://documenter.getpostman.com/view/45175938/2sB3B7Mt8x)
 
+## Postman Images
+The images below shows what the API returns
+
+Register
+
+![Alt text](images/register.png)
+
+
+Login 
+![Alt text](images/login.png)
+
+
+
+Profile
+
+![Alt text](images/get.png)
 
 
 
