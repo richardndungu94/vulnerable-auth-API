@@ -1,6 +1,6 @@
 # vulnerable-auth-API
 Intentionally-insecure-auth-api
-** Disclaimer**: This is API is insecure  do not use it.It  contains vulnerabilities for cyber security study
+** Disclaimer**: This iAPI is insecure do not use it.It  contains vulnerabilities for cyber security research.
 ## Vulnerabilities Include
 -No input validation
 -Sensitive data exposure
