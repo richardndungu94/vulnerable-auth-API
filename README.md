@@ -1,6 +1,6 @@
-# vulnerable-auth-API
+# Vulnerable-auth-API
 Intentionally-insecure-auth-api
-** Disclaimer**: This iAPI is insecure do not use it.It  contains vulnerabilities for cyber security research.
+** Disclaimer**: This API is insecure do not use it.It  contains vulnerabilities for cyber security research.
 ## Vulnerabilities Include
 -No input validation
 -Sensitive data exposure
@@ -9,12 +9,12 @@ Intentionally-insecure-auth-api
 -Hardcoded and exposed credentials
 -Weak passwords
 
-## Techstack
+## Tech stack
 
 ```
 -Node.js
 -Mongo
--Docker suppor-
+-Docker support-
 ```
 ## Learn
 user POSTMAN to test the the API in the local environment
@@ -28,8 +28,8 @@ Run on VS code
 ```node app.js ```
 
 ## The project
-This project will help you get to interact with reak vilnerable API,
-The project contains a source code of an authentication API commented in blocks to allow us have a vulnerable API
+This project will help you get to interact with real vulnerable API.
+The project contains a source code of an authentication API commented in blocks to allow us have a vulnerable API.
 
 ## POSTMAN Link
 
